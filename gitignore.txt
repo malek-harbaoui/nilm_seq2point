@@ -1,0 +1,6 @@
+data/*
+env/*
+energy_disaggregation_model.keras
+energy_disaggregation_model.h5
+energy_disaggregation_model.pk1
+
