@@ -78,7 +78,7 @@ The Seq2Point model uses:
   The model predicts normalized and real-scale consumption values for each appliance, mapped using their names.
 
 ## Gitignore
-The repository includes a `.gitignore` file to exclude unnecessary files and folders, such as virtual environments and temporary files.
+- The repository includes a `.gitignore` file to exclude unnecessary files and folders, such as virtual environments and temporary files.
 ---
 
 Feel free to explore the results and adapt the model to your NILM tasks. 
