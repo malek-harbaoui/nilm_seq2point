@@ -76,7 +76,6 @@ The Seq2Point model uses:
 
 - **Predicted Appliance Consumption**:
   The model predicts normalized and real-scale consumption values for each appliance, mapped using their names.
-  Pretrained model will be saved in three files <energy_disaggregation_model.keras> , <energy_disaggregation_model.h5> , <energy_disaggregation_model.pk1>
 
 ## Gitignore
 - The repository includes a `.gitignore` file to exclude unnecessary files and folders, such as virtual environments and temporary files.
