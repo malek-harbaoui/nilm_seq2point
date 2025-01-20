@@ -28,13 +28,13 @@ pip install -r requirements.txt
 ## Usage
 1. Clone the repository:
 ```bash
-git clone <repository_url>
-cd <repository_name>
+git clone https://github.com/malek-harbaoui/nilm_seq2point.git
+cd nilm_seq2point
 ```
 2. Ensure the dataset file `all_buildings_data.csv` is in the project root directory.
 3. Run the script to train the model:
 ```bash
-python <script_name>.py
+python version_finale.py
 ```
 4. Predictions can be made using the `predict_appliance_consumption` function, passing an aggregate energy window of size 60.
 ## Outputs
