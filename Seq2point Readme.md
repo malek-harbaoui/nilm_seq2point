@@ -19,6 +19,7 @@ The dataset file `all_buildings_data.csv` contains:
 - Remaining columns: Individual appliance consumption values (targets).
 
 ## Requirements
+You need to have python 3.12.3 or a later version.
 Install the required dependencies by running:
 ```bash
 pip install -r requirements.txt
